@@ -6,7 +6,7 @@
 
 
 // Implementation of hash table
-
+x`
 typedef struct{
     char pair[2];
 }Pair;
